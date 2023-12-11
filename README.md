@@ -9,8 +9,8 @@
 - 🚿 Fun fact: I love taking cold showers
 - 📧 Email: [otabiznake@gmail.com](mailto:otabiznake@gmail.com)
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=OtienoOdongo&show_icons=true&theme=radical"/>
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtienoOdongo&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=OtienoOdongo&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtienoOdongo&layout=compact"/>
 
 ## Top Programming Languages:
 <div>
