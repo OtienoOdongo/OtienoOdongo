@@ -22,6 +22,7 @@
   <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
+
 ## Frameworks, Platforms, and Libraries:
 <div>
   <img align="left" width=50px src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
