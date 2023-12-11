@@ -31,7 +31,7 @@ Email: <a href="mailto:otabiznake@gmail.com">otabiznake@gmail.com</a>
 
 </div>
 
-##  Frameworks, Platforms and Libraries
+## Frameworks, Platforms and Libraries:
 
 <div>
   <img align="Left"  src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
