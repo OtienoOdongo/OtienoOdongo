@@ -23,7 +23,7 @@
 </div>
 
 
-## Frameworks, Platforms, and Libraries:
+## Frameworks & Libraries:
 <div>
   <img align="left" width=50px src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img align="left" width=50px src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
